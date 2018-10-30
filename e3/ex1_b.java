@@ -6,6 +6,7 @@ import java.util.Scanner;
 
 /**
  * Freqüència del resultat del llançament de dos daus
+ * usant la classe Map
  */
 public class ex1_b {
 
