@@ -5,7 +5,7 @@ import java.util.Map;
 import java.util.Scanner;
 
 /**
- * Freqüència del resultat del llançamenr de dos daus
+ * Freqüència del resultat del llançament de dos daus
  */
 public class ex1_b {
 
